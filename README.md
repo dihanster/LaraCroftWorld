@@ -1,10 +1,15 @@
 # LaraCroftWorld
 Uma aplicação desenvolvida em C e OpenGL para a disciplina de Computação Gráfica na UNIFESP.
 
-# Ferramentas
+## Ferramentas
+- Linguagem C
+- Biblioteca OpenGL
+  - FreeGlut
 
-# Modelagem
+## Modelagem
 
-# Execução
+## Execução
 
-# Vídeo
+## Vídeo
+
+Link no Youtube [Link](www.google.com)
